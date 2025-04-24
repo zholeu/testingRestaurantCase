@@ -1,5 +1,3 @@
-# Проекты лабораторных работ
-
 **Тема:** "Разработка и автоматизация процессов тестирования REST API с применением Python и Pytest"
 **Период:** весна 2025
 
@@ -25,6 +23,7 @@
  ```
 git clone https://github.com/zholeu/testingRestaurantCase.git
 pip install -r requirements.txt
+pytest -v
 ```
 
 
