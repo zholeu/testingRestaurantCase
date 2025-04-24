@@ -23,7 +23,6 @@
  ```
 git clone https://github.com/zholeu/testingRestaurantCase.git
 pip install -r requirements.txt
-⚙️ Установка и запуск
 ```
 
 
