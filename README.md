@@ -4,6 +4,7 @@
 **Период:** весна 2025
 
 # Структура проекта
+```
 .
 ├── tests/                      # Каталог с тестами
 │   ├── test_delete_requests.py # DELETE-запросы
@@ -18,6 +19,7 @@
 │   └── auth.py                 # Класс BearerAuth для авторизации
 ├── requirements.txt            
 └── README.md
+```
 
  # Установка и запуск
  ```
