@@ -21,9 +21,14 @@
 ```
 
  # Установка и запуск
+ 1. Клонирование и установка зависимостей 
  ```
 git clone https://github.com/zholeu/testingRestaurantCase.git
 pip install -r requirements.txt
+```
+2. Установить токен в файле config/config.py
+3. Запуск
+```
 pytest -v
 ```
 
